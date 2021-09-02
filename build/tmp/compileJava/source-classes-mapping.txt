@@ -1,0 +1,2 @@
+ru/lihogub/Main.java
+ ru.lihogub.Main
